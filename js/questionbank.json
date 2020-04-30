@@ -1,0 +1,1023 @@
+{
+"questions":[{
+
+    "question": "Which football team plays its games at St James Park?",
+    
+
+    "answers" : [{
+        "a" : "Everton",
+        "b" : "West Ham",
+        "c" : "Aston Villa",
+        "d" : "Newcastle United"
+    }],
+    "correct" : "d",
+    "videos": [{"question":"videos/questions/lewis/00049.mp4",
+            "correct_vid": "videos/questions/lewis/00049.mp4",
+            "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+},
+{
+
+    "question": "In the phonetic alphabet which word represents I?",
+  
+    "answers" : [{
+        "a" : "Igloo",
+        "b" : "Interm",
+        "c" : "Inca",
+        "d" : "India"
+    }],
+    "correct" : "a",
+    "videos": [{"question":"videos/questions/lewis/00054.mp4",
+        "correct_vid": "videos/questions/lewis/00049.mp4",
+        "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+},
+{
+
+    "question": "Who invented penacilin?",
+  
+    "answers" : [{
+        "a" : "Alexander Flemming",
+        "b" : "Thomas Eddison",
+        "c" : "John Logi Bear",
+        "d" : "Nicholas tesla"
+    }], 
+    "correct" : "a",
+    "videos": [{"question":"videos/questions/lewis/00051.mp4",
+        "correct_vid": "videos/questions/lewis/00049.mp4",
+        "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+},
+{
+"question": "What is the name for a group of dolphins?",
+  
+"answers" : [{
+    "a" : "Pod",
+    "b" : "Heard",
+    "c" : "School",
+    "d" : "Mob"
+}],
+"correct" : "a",
+"videos": [{"question":"videos/questions/lewis/00052.mp4",
+    "correct_vid": "videos/questions/lewis/00049.mp4",
+    "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+},
+{
+"question": "How many men have walked on the moon?",
+  
+"answers" : [{
+    "a" : "8",
+    "b" : "10",
+    "c" : "12",
+    "d" : "14"
+}],
+"correct" : "c",
+"videos": [{"question":"videos/questions/lewis/00055.mp4",
+    "correct_vid": "videos/questions/lewis/00049.mp4",
+    "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+},
+{
+    "question": "How many people have been presidents of USA?",
+      
+    "answers" : [{
+        "a" : "42",
+        "b" : "44",
+        "c" : "45",
+        "d" : "47"
+    }],
+    "correct" : "c",
+    "videos": [{"question":"videos/questions/lewis/00056.mp4",
+        "correct_vid": "videos/questions/lewis/00049.mp4",
+        "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+    },
+
+    {
+        "question": "What is the current currency of Brazil?",
+          
+        "answers" : [{
+            "a" : "Dollar",
+            "b" : "Peso",
+            "c" : "Escodo",
+            "d" : "Real"
+        }],
+        "correct" : "d",
+        "videos": [{"question":"videos/questions/lewis/00058.mp4",
+            "correct_vid": "videos/questions/lewis/00049.mp4",
+            "incorrect_vid": "videos/questions/lewis/00049.mp4"  }]
+        },
+       
+{    "question": "Who invented the C++ programming language?",
+    "answers" : [{
+        "a" : "Arthur O'Dwyer",
+        "b" : "Rodger Cadenhead",
+        "c" : "Jessie Letherhead",
+        "d" : "Bjarne Stroustrup"
+    }],
+    "correct" : "d"
+},
+{"question": "Bootstrap was invented by what socail neworking company?",
+
+    "answers" : [{
+        "a" : "Facebook",
+        "b" : "Snapchat",
+        "c" : "Twitter",
+        "d" : "Linkedin"
+    }],
+    "correct": "c"
+    },
+{
+"question": "Who invented the Three.js?",
+"answers" : [{
+    "a" : "Kevin Macleod",
+    "b" : "Ricardo Cabello",
+    "c" : "Soledad Penadés",
+    "d" : "Brendan Eich"
+}],
+
+"correct" : "b"
+},
+{
+    "question": "Rosenbrock function are associated with which shape?",
+    "answers" : [{
+        "a" : "Bowl",
+        "b" : "Bell",
+        "c" : "Sphere",
+        "d" : "Bannana"
+    }],
+    "correct": "d"
+},
+
+{"question": "If (7e + 5)/e = 26/3, then the value of 'e' is?",
+
+    "answers" : [{
+        "a" : "5",
+        "b" : "7",
+        "c" : "3",
+        "d" : "4"
+    }],
+    "correct": "c"
+    },
+
+{"question": "Which algebra specification implements associativity law",
+
+"answers" : [{
+    "a" : "Setoids",
+    "b" : "Semigroups",
+    "c" : "Monoids",
+    "d" : "Functors"
+}],
+"correct": "b"
+}
+,
+{"question": "Which Theorem can be used to reverse conditional probabilites",
+
+"answers" : [{
+    "a" : "Bayes Theorem",
+    "b" : "Central Limit Theorem",
+    "c" : "Cramers Theorem",
+    "d" : "Jackson Theorem"
+}],
+"correct": "a"
+}
+,
+
+    {"question": "Who is coined the CQRS pattern?",
+
+        "answers" : [{
+            "a" : "Cris Sawyer",
+            "b" : "Greg Young",
+            "c" : "Dan Bunten",
+            "d" : "Tim Schafer"
+        }],
+        "correct": "b"
+        },
+        {"question": "A category is said to be of what type?",
+
+            "answers" : [{
+                "a" : "Disjoint",
+                "b" : "Intersection",
+                "c" : "Aggregated",
+                "d" : "Union"
+            }],
+            "correct": "d"
+            },
+      
+{"question": "When was Apple founded?",
+
+    "answers" : [{
+        "a" : "1st April 1981",
+        "b" : "1st April 1979",
+        "c" : "1st April 1985",
+        "d" : "1st April 1976"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "When was Microsoft founded?",
+    
+    "answers" : [{
+        "a" : "1975",
+        "b" : "1979",
+        "c" : "1981",
+        "d" : "1985"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Who invented the first touch screen phone?",
+    
+    "answers" : [{
+        "a" : "Microsoft",
+        "b" : "IBM",
+        "c" : "Apple",
+        "d" : "Hewlett-Packard"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "When invented the colour TV?",
+    
+    "answers" : [{
+        "a" : "John Logie Baird",
+        "b" : "Philo Farnsworth",
+        "c" : "Charles Jenkins",
+        "d" : "Paul Nipkow"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "When invented the radio?",
+    
+    "answers" : [{
+        "a" : "Alexander Popov",
+        "b" : "Guglielmo Marconi",
+        "c" : "Michael Faraday",
+        "d" : "Heinrich Hertz"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "When invented the telephone?",
+    
+    "answers" : [{
+        "a" : "Elisha Gray",
+        "b" : "Johann Reis",
+        "c" : "Giuseppe Garibaldi",
+        "d" : "Antonio Meucci"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "What was the first modern computer called?",
+    
+    "answers" : [{
+        "a" : "Analytical Engine",
+        "b" : "Math Engine",
+        "c" : "Computer Engine",
+        "d" : "Game Engine"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "What was the first mobile phone called?",
+    
+    "answers" : [{
+        "a" : "ProX 4000x",
+        "b" : "EliteT 2000x",
+        "c" : "DaKP 1000x",
+        "d" : "DynaTAC 8000x"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "When does GPU stand for?",
+    
+    "answers" : [{
+        "a" : "Group Processing Unit",
+        "b" : "Graphics Processing Unit",
+        "c" : "Ground Processing Unit",
+        "d" : "Game Processing Unit"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "When does CPU stand for?",
+    
+    "answers" : [{
+        "a" : "Combined Processing Unit",
+        "b" : "Common Processing Unit",
+        "c" : "Central Processing Unit",
+        "d" : "Cooperative Processing Unit"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "What year was the first motor race held that was classed as Formula 1?",
+    
+    "answers" : [{
+        "a" : "1955",
+        "b" : "1962",
+        "c" : "1950",
+        "d" : "1957"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "Which King of England was crowned on Christmas Day?",
+    
+    "answers" : [{
+        "a" : "William the 1st",
+        "b" : "Aethelbald",
+        "c" : "Edward V",
+        "d" : "John"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "What is the collective name for a group of sea cucumbers?",
+    
+    "answers" : [{
+        "a" : "Gherkin",
+        "b" : "Pickle",
+        "c" : "Zucchini",
+        "d" : "Squash"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "What did Hugh Heffner originally plan to call his Playboy magazine?",
+    
+    "answers" : [{
+        "a" : "Gameboy",
+        "b" : "Bunnies",
+        "c" : "Hen Party",
+        "d" : "Stag Party"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "In what year was DNA discovered?",
+    
+    "answers" : [{
+        "a" : "1936",
+        "b" : "1953",
+        "c" : "1974",
+        "d" : "1929"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "In what year did ITV start broadcasting?",
+    
+    "answers" : [{
+        "a" : "1955",
+        "b" : "1960",
+        "c" : "1958",
+        "d" : "1952"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "What is the name of the largest cut diamond in existence?",
+    
+    "answers" : [{
+        "a" : "Star of Australia",
+        "b" : "Star of America",
+        "c" : "Star of Africa",
+        "d" : "Star of David"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "How mnay eyes does a bee have?",
+    
+    "answers" : [{
+        "a" : "2",
+        "b" : "5",
+        "c" : "4",
+        "d" : "6"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "In season 2004/2005, which Premiership team had the largest pitch at 9440 square yards?",
+    
+    "answers" : [{
+        "a" : "Manchester City",
+        "b" : "Liverpool",
+        "c" : "Manchester United",
+        "d" : "Arsenal"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Which three fruits are combined to make the drink Vimto?",
+    
+    "answers" : [{
+        "a" : "Apple, blueberry, grape",
+        "b" : "Grape, blackcurrant, raspberry",
+        "c" : "Blackcurrant, blueberry, apple",
+        "d" : "Raspberry, apple, grape"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Which singer had a hit with the song “School’s Out”?",
+    
+    "answers" : [{
+        "a" : "Chuck Berry",
+        "b" : "Marc Almond",
+        "c" : "Barry White",
+        "d" : "Alice Copper"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "Torvill and Dean won gold at which Winter Olympics?",
+    
+    "answers" : [{
+        "a" : "Sarajevo",
+        "b" : "Sochi",
+        "c" : "Lake Placid",
+        "d" : "Vancouver"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "What is the main focus of the establishment known as the “Met Office”?",
+    
+    "answers" : [{
+        "a" : "Weather",
+        "b" : "Policing",
+        "c" : "Religion",
+        "d" : "Sport"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Where in the body are the cruciate ligaments located?",
+    
+    "answers" : [{
+        "a" : "Arm",
+        "b" : "Eye",
+        "c" : "Leg",
+        "d" : "back"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "Which of these countries has the smallest area?",
+    
+    "answers" : [{
+        "a" : "San Marino",
+        "b" : "Andorra",
+        "c" : "Luxembourg",
+        "d" : "Slovenia"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Which is the lowest layer of the earth’s atmosphere?",
+    
+    "answers" : [{
+        "a" : "Mesosphere",
+        "b" : "Troposphere",
+        "c" : "Thermosphere",
+        "d" : "Stratosphere"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Which football team have the most the European cup the most times?",
+    
+    "answers" : [{
+        "a" : "Juventus",
+        "b" : "Real Madrid",
+        "c" : "Ajax",
+        "d" : "Liverpool"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Which Duke gave his name to a type of protective boot?",
+    
+    "answers" : [{
+        "a" : "Kent",
+        "b" : "York",
+        "c" : "Wellington",
+        "d" : "Windsor"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    
+    {"question": "What is the more common name for a “lexicon”?",
+    
+    "answers" : [{
+        "a" : "Travel Guide",
+        "b" : "Magazine",
+        "c" : "Autobiography",
+        "d" : "Dictionary"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "Which car company produces a model called the “Passat”?",
+    
+    "answers" : [{
+        "a" : "Volkswagen",
+        "b" : "Mazda",
+        "c" : "Kia",
+        "d" : "Volvo"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Which of these is not in the United Arab Emirates?",
+    
+    "answers" : [{
+        "a" : "Qatar",
+        "b" : "Ajman",
+        "c" : "Abu Dhabi",
+        "d" : "Dubai"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "“Old Rowley” was a nickname for which king?",
+    
+    "answers" : [{
+        "a" : "Henry VII",
+        "b" : "Charles II",
+        "c" : "Edward VII",
+        "d" : "James II"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Complete the title of the TV show “The IT..?",
+    
+    "answers" : [{
+        "a" : "Bunch",
+        "b" : "Crowd",
+        "c" : "Lot",
+        "d" : "People"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Mixologist is another name for which profession?",
+    
+    "answers" : [{
+        "a" : "Bartender",
+        "b" : "Firefighter",
+        "c" : "Optician",
+        "d" : "Pharmacist"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "With 260 goals, who is the Premier League’s all-time leading goal scorer?",
+    
+    "answers" : [{
+        "a" : "Thierry Henry",
+        "b" : "Andy Cole",
+        "c" : "Alan Searer",
+        "d" : "Wayne Rooney"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "In which of the following would you associate Vince McMahon?",
+    
+    "answers" : [{
+        "a" : "Weightlifting",
+        "b" : "Professional Wrestling",
+        "c" : "Cooking",
+        "d" : "Golf"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "In snooker, how many points is the brown ball worth?",
+    
+    "answers" : [{
+        "a" : "2",
+        "b" : "3",
+        "c" : "4",
+        "d" : "5"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "The Eiffel Tower is located in which city?",
+    
+    "answers" : [{
+        "a" : "Brussels",
+        "b" : "Madrid",
+        "c" : "Paris",
+        "d" : "Zurich"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "What is the name of the sport where 2 teams pull at the opposite end of a rope?",
+    
+    "answers" : [{
+        "a" : "Tug of War",
+        "b" : "Rope Pull",
+        "c" : "Polo",
+        "d" : "Jousting"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Complete the title of this James Bond film: The Man with the Golden..?",
+    
+    "answers" : [{
+        "a" : "Eagle",
+        "b" : "Goose",
+        "c" : "Eye",
+        "d" : "Gun"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    
+    {"question": "Which football team plays its home games at St James’ Park?",
+    
+    "answers" : [{
+        "a" : "Everton",
+        "b" : "West Ham",
+        "c" : "Aston Villa",
+        "d" : "Newcastle United"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "In the phonetic alphabet, which word represents the letter i?",
+    
+    "answers" : [{
+        "a" : "Igloo",
+        "b" : "Intern",
+        "c" : "India",
+        "d" : "Inca"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "What is the name for a group of Dolphins?",
+    
+    "answers" : [{
+        "a" : "Pod",
+        "b" : "Herd",
+        "c" : "School",
+        "d" : "Mob"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Which of these discovered Penicillin?",
+    
+    "answers" : [{
+        "a" : "Thomas Edison",
+        "b" : "Alexander Fleming",
+        "c" : "John Logie Baird",
+        "d" : "Nikola Tesla"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "How many men have walked on the moon?",
+    
+    "answers" : [{
+        "a" : "8",
+        "b" : "12",
+        "c" : "10",
+        "d" : "14"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "What is the currency of Brazil?",
+    
+    "answers" : [{
+        "a" : "Escudo",
+        "b" : "Peso",
+        "c" : "Dollar",
+        "d" : "Real"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "How many presidents, including currently, have the United States had?",
+    
+    "answers" : [{
+        "a" : "42",
+        "b" : "44",
+        "c" : "45",
+        "d" : "47"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "Which ancient city shares a name of a top 5 hit for David Gray?",
+    
+    "answers" : [{
+        "a" : "Babylon",
+        "b" : "Athens",
+        "c" : "Troy",
+        "d" : "Sparta"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Which agency has its headquarters based at Thames House?",
+    
+    "answers" : [{
+        "a" : "MI6",
+        "b" : "MI5",
+        "c" : "Home Office",
+        "d" : "DVLA"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "James Naismith is credited with inventing which sport?",
+    
+    "answers" : [{
+        "a" : "Volleyball",
+        "b" : "Badminton",
+        "c" : "Rugby",
+        "d" : "Basketball"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "The radio soap opera The Archers appears on which Radio station?",
+    
+    "answers" : [{
+        "a" : "BBC Radio 2",
+        "b" : "BBC Radio 4",
+        "c" : "Magic FM",
+        "d" : "Classic FM"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Which of these actors has not appeared in Coronation Street?",
+    
+    "answers" : [{
+        "a" : "Charles Dance",
+        "b" : "Andrew Sachs",
+        "c" : "Ben Kingsley",
+        "d" : "Ian Mckellen"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "Who scored the first ever goal in the Premier League?",
+    
+    "answers" : [{
+        "a" : "Teddy Sherringham",
+        "b" : "Johan Cruyff",
+        "c" : "Brian Deane",
+        "d" : "Alan Shearer"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "Which of these Oscar winning films was released first?",
+    
+    "answers" : [{
+        "a" : "Dances With Wolves",
+        "b" : "Titanic",
+        "c" : "Unforgiven",
+        "d" : "The English Patient"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "In what year was the National Lottery launched?",
+    
+    "answers" : [{
+        "a" : "1992",
+        "b" : "1989",
+        "c" : "1994",
+        "d" : "1986"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "The Willis Tower is located in which US city?",
+    
+    "answers" : [{
+        "a" : "New York",
+        "b" : "Los Angeles",
+        "c" : "Texas",
+        "d" : "Chicago"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "In the Royal Navy, what type of vessels are the Vanguard and Vengeance?",
+    
+    "answers" : [{
+        "a" : "Destroyers",
+        "b" : "Submarines",
+        "c" : "Minehunters",
+        "d" : "Frigates"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Who was the actor who portrayed Captain Jack Sparrow in Pirates of The Caribbean?",
+    
+    "answers" : [{
+        "a" : "Tim Burton",
+        "b" : "Robin Williams",
+        "c" : "Jonny Depp",
+        "d" : "Jack Davenport"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "In Greek mythology what was the name of the god of death?",
+    
+    "answers" : [{
+        "a" : "Zeus",
+        "b" : "Poseidon",
+        "c" : "Ares",
+        "d" : "Thanatos"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "Which English football team plays its home matches at the stadium Old Trafford?",
+    
+    "answers" : [{
+        "a" : "Manchester United",
+        "b" : "Everton",
+        "c" : "Manchester City",
+        "d" : "Liverpool"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "What are made and repaired by a cobbler?",
+    
+    "answers" : [{
+        "a" : "Hats",
+        "b" : "Toys",
+        "c" : "Shoes",
+        "d" : "Clocks"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "Which English king married six times?",
+    
+    "answers" : [{
+        "a" : "Henry VIII",
+        "b" : "James II",
+        "c" : "Edward I",
+        "d" : "Henry II"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "In which religion is Krishna a god?",
+    
+    "answers" : [{
+        "a" : "Buddhist",
+        "b" : "Hinduism",
+        "c" : "Islam",
+        "d" : "Sikhism"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Which Olympic sport takes place in a velodrome?",
+    
+    "answers" : [{
+        "a" : "Bob Sled",
+        "b" : "Swimming",
+        "c" : "Fencing",
+        "d" : "Cycling"
+    }],
+    "correct": "d"
+    }
+    ,
+    
+    {"question": "What does the ‘MI’ in ‘MI6’ stand for?",
+    
+    "answers" : [{
+        "a" : "Mission Interpol",
+        "b" : "Mission Impossible",
+        "c" : "Military Intelligence",
+        "d" : "Mission Interpol"
+    }],
+    "correct": "c"
+    }
+    ,
+    
+    {"question": "What is the world’s largest land mammal?",
+    
+    "answers" : [{
+        "a" : "Gaur",
+        "b" : "Elephant",
+        "c" : "Giraffe",
+        "d" : "Rhino"
+    }],
+    "correct": "b"
+    }
+    ,
+    
+    {"question": "Which animal has caused the most amount of deaths to a human?",
+    
+    "answers" : [{
+        "a" : "Mosquitoes",
+        "b" : "Snakes",
+        "c" : "Cows",
+        "d" : "Scorpions"
+    }],
+    "correct": "a"
+    }
+    ,
+    
+    {"question": "In August 2010, how many miners were rescued from Chile’s San Jose mine?",
+    
+    "answers" : [{
+        "a" : "27",
+        "b" : "25",
+        "c" : "30",
+        "d" : "33"
+    }],
+    "correct": "d"
+    }
+              
+
+  
+    
+      ] }     
+
